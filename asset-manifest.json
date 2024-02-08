@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/korzina/static/css/main.1f331eec.css",
-    "main.js": "/korzina/static/js/main.32364d88.js",
-    "index.html": "/korzina/index.html",
-    "main.1f331eec.css.map": "/korzina/static/css/main.1f331eec.css.map",
-    "main.32364d88.js.map": "/korzina/static/js/main.32364d88.js.map"
+    "main.css": "/korzinaR/static/css/main.1f331eec.css",
+    "main.js": "/korzinaR/static/js/main.32364d88.js",
+    "index.html": "/korzinaR/index.html",
+    "main.1f331eec.css.map": "/korzinaR/static/css/main.1f331eec.css.map",
+    "main.32364d88.js.map": "/korzinaR/static/js/main.32364d88.js.map"
   },
   "entrypoints": [
     "static/css/main.1f331eec.css",
