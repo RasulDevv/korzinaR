@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/korzina/static/css/main.1f331eec.css",
+    "main.js": "/korzina/static/js/main.32364d88.js",
+    "index.html": "/korzina/index.html",
+    "main.1f331eec.css.map": "/korzina/static/css/main.1f331eec.css.map",
+    "main.32364d88.js.map": "/korzina/static/js/main.32364d88.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1f331eec.css",
+    "static/js/main.32364d88.js"
+  ]
+}
